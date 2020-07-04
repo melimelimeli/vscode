@@ -1,2 +1,3 @@
-first index file
-second index file
+first;
+second;
+third;
